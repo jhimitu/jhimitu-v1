@@ -5,7 +5,7 @@
   }
 
 body {
-    background-color: #8FD4FF;
+    background-color: white;
 }
 
 
@@ -26,10 +26,12 @@ nav a {
     font-size: 32px;
     padding-top: 80px;
     font-weight: bold;
-    color: white;
+    color: #121212;
 }
 
-nav :last-child {
+.home {
+    padding-left: 80px;
+    font-size: 42px;
     color: #8C52FF;
 }
 
@@ -66,7 +68,7 @@ nav div {
 }
 
 .info h1 {
-    color: white;
+    color: #121212;
     font-size: 100px;
     letter-spacing: -3px;
     /* padding-left: 90px; */
